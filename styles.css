@@ -1,0 +1,50 @@
+body{
+
+background-color: blue;
+
+
+}
+
+@media only screen and (max-width:800px){
+
+    body{
+        background-color: orangered;
+    }
+}
+
+@media only screen and (max-width:600px){
+
+    body{
+        background-color: chartreuse;
+    }
+}
+
+
+@media only screen and (max-width:580px){
+
+    body{
+        background-color: palevioletred;
+    }
+}
+
+@media only screen and (max-width:570px){
+
+ 
+
+            body{
+                background-color: turquoise;
+            }
+        }
+
+
+
+
+        @media only screen and (max-width:500px){
+
+            body{
+                background-color:goldenrod;
+            }
+        }
+
+
+
